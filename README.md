@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Doesn't matter if it's green.
+Doesn't matter if it's green or black.
 <!--
 **AliBYetiser/AliBYetiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
